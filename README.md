@@ -25,7 +25,7 @@ Her port için TCP bağlantısı kurmayı dener. Bağlantı kurulursa port açı
 
 ## Yasal uyarı
 
-Yalnızca kendi makinende, kendi lab ortamında veya yazılı izin aldığın sistemlerde kullan. İzinsiz tarama suç sayılabilir. Program yerel olmayan hedeflerde izin teyidi ister.
+Yalnızca kendi makinenizde, kendi lab ortamınınızda veya yazılı izin aldığınız sistemlerde kullanın. İzinsiz tarama suç sayılabilir. Program yerel olmayan hedeflerde izin teyidi ister.
 
 ## Geliştirme fikirleri
 
