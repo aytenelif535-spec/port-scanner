@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Basit TCP port tarayıcı (eğitim amaçlı).
 
-Yalnızca kendi makinende, kendi laboratuvarında veya yazılı izin aldığın
-sistemlerde kullan. İzinsiz tarama yasa dışı olabilir.
+Basit port tarayıcı - öğrenme sürümü
+Yalnızca kendi makinenizde, kendi laboratuvarınızda veya yazılı izin aldığınız
+sistemlerde kullanın. İzinsiz tarama yasa dışı olabilir.
 
 Örnekler:
     python port_scanner.py                       # 127.0.0.1, 1-1024
